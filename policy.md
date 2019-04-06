@@ -2,7 +2,7 @@
 You can find information about the use that Sory Apps makes of your personal information. By using any of the mobile apps that you may find published on the Google Play Store under the developer's name [Sory Apps](https://play.google.com/store/apps/developer?id=Sory+Apps), you recognize accept this privacy policy.
 
 ```
-Si lo desea, puede consultar la presente [política de privacidad en Español](https://github.com/SoryApps/privacypolicy/politica.md).
+Si lo desea, puede consultar la presente [política de privacidad en Español](https://github.com/SoryApps/privacypolicy/blob/master/politica.md).
 ```
 
 ## About what this privacy policy covers:
