@@ -26,23 +26,20 @@ Si quiere conocer más información acerca del identificador de publicidad puede
 ## Contacta:
 Puede contactar a [soryapps@gmail.com](mailto:soryapps@gmail.com) para cualquier duda o aspecto relacionado con esta política de privacidad.
 
-
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Extensión:
 En este apartado se extiende la información sobre la filosofía y práctica de la privacidad en las aplicaciones [Sory Apps](https://play.google.com/store/apps/developer?id=Sory+Apps).
 
 ### Sobre los SDK, API y servicios externos de terceros:
-Sólo algunas de las aplicaciones con permiso de Internet hacen uso de algunos de los SDK, API y servicios externos ([Firebase](https://firebase.google.com/)) que ofrece Google para desarrollar aplicaciones.
-Algunos ejemplos son [SDK de Maps](https://developers.google.com/maps/documentation/android-sdk/overview) para mostrar un mapa en la aplicación o [Firebase Remote Config](https://firebase.google.com/products/remote-config) para ajustar y actualizar las aplicaciones.
-Se debe destacar que son externos y de terceros, por lo que siguen su propia política de privacidad que se puede encontrar en su sitio Web.
+Sólo algunas de las aplicaciones con permiso de Internet hacen uso de algunos de los SDK, API y servicios externos ([Firebase](https://firebase.google.com/)) que ofrece Google para desarrollar aplicaciones.<br/>
+Algunos ejemplos son [SDK de Maps](https://developers.google.com/maps/documentation/android-sdk/overview) para mostrar un mapa en la aplicación o [Firebase Remote Config](https://firebase.google.com/products/remote-config) para ajustar y actualizar las aplicaciones.<br/>
+Se debe destacar que son externos y de terceros, por lo que siguen su propia política de privacidad que se puede encontrar en su sitio Web.<br/>
 Lo importante es aclarar que las aplicaciones reciben información de estos servicios, pero no transmiten información personal que pueda haber en el teléfono. No se envía ni sale del teléfono por Internet información como fotos, ubicación GPS, contactos, etc. a través de estas aplicaciones.
 
 ### Uso de permisos:
-Las aplicaciones usan los permisos que son mínimamente necesarios para desarrollar sus funciones. Además, tanto la ficha en Play Store como la interfaz gráfica de las aplicaciones explican, justifican y hacen evidente para los usuarios la necesidad de los permisos que solicitan para funcionar.
-La información que proporcionan los permisos sólo es utilizada localmente por la aplicación para proporcionarte sus funciones, por lo que la aplicaión no la envía o transmite fuera de tu teléfono.
+Las aplicaciones usan los permisos que son mínimamente necesarios para desarrollar sus funciones. Además, tanto la ficha en Play Store como la interfaz gráfica de las aplicaciones explican, justifican y hacen evidente para los usuarios la necesidad de los permisos que solicitan para funcionar.<br/>
+La información que proporcionan los permisos sólo es utilizada localmente por la aplicación para proporcionarte sus funciones, por lo que la aplicaión no la envía o transmite fuera de tu teléfono.<br/>
 Algunos ejemplos de permisos:
 - [Internet](https://developer.android.com/reference/android/Manifest.permission#INTERNET): algunas aplicaciones no tienen este permiso lo que significa que no se puede enviar ni recibir información. Las aplicaciones con este permiso lo usan como se ha descrito en apartados anteriores de esta política.
 - Ubicación o GPS: por ejemplo, en la aplicación [Encontrar mi coche - recordar aparcamiento](https://play.google.com/store/apps/details?id=es.soryapps.findmycar), este permiso es obvio porque la función principal de la aplicación es guardar dónde has aparcado tu coche. La aplicación no te obliga a conceder este permiso y sólo lo usa cuando está en primer plano (no desde tareas de fondo o en segundo plano).
