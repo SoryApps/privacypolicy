@@ -11,17 +11,27 @@ This privacy policy applies to information that may be collected by using the mo
 ## What information is collected:
 Privacy is the backbone of our mobile applications, so the objective is not to collect any information if it is not strictly necessary.
 
-Therefore, the only information that is collected is the advertising identifier, due to the presence of advertising in the mobile applications.
+Therefore, the only information that is collected is the advertising identifier, due to the presence of advertising in the mobile applications; and, in some apps, error reporting related information (crashes).
 
 ## How the information that is collected is used:
-The information is only used to provide a specific service: Display advertising that complies with the preferences and restrictions that you have established to.
+The information is only used to provide a specific service: Display advertising that complies with the preferences and restrictions that you have established to, or error reporting in some apps.
 
 ## What this privacy policy means in practice:
-The mobile applications do not collect or transmit any type of user information over the Internet. Therefore, they do not have Internet permission, so they guarantee total privacy and isolation from the network.
+The mobile applications do not collect or transmit any type of user information over the Internet. Therefore, some of them do not have Internet permission, so they guarantee total privacy and isolation from the network.
 
-The mobile applications, and only those variants of them that show advertising, neither collect nor transmit any type of user information over the Internet. However, to show advertising, these applications integrate an external service (advertising network) that is the one that, from within the applications, autonomously and independently collects and transmits the advertising identifier. Therefore, only these applications require permission and access to the Internet. This external integrated service is independent, it is outside the control of the mobile applications and has (it is governed) with its own privacy policy. You can find more information about the external advertising service by consulting [its website](https://admob.google.com/).
+The mobile applications, and only those variants of them that show advertising or record errors, neither collect nor transmit any type of user information over the Internet. However, to show advertising or record crashes, these applications integrate an external service (eg: advertising network) that is the one that, from within the applications, autonomously and independently collects and transmits the advertising identifier or the error info. Therefore, only these applications require permission and access to the Internet. These external integrated services are independent, it is outside the control of the mobile applications and has (it is governed) with its own privacy policy. You can find more information about the external advertising service by consulting [its website](https://admob.google.com/).
 
 If you want to know more information about the advertising identifier, you can consult the following Web resource https://play.google.com/about/monetization-ads/ads/ad-id/#ad-id
+
+## Data Retention:
+The apps retain the information collected locally on your device for as long as the application is installed on your device. We do not store any of your personal data on external servers. Information collected by third-party services, such as the advertising identifier, is retained according to their respective privacy policies.
+
+## Data Deletion:
+You have the right to request the deletion of your data at any time. Since our apps only stores your data locally on your device, you can easily delete all your user data by:
+1. Deleting the info directly within the app.
+2. Clearing the application's data and cache in your device's settings.
+3. Uninstalling the application from your device.
+To manage, reset, or delete your advertising identifier, you can do so directly through your Android device settings (Settings > Google > Ads).
 
 ## Contact:
 You can contact [soryapps@gmail.com](mailto:soryapps@gmail.com) for any doubt or concerns related to this privacy policy.
@@ -37,10 +47,18 @@ Some examples are the [Maps SDK](https://developers.google.com/maps/documentatio
 It should be noted that they are external and third-party, so they follow their own privacy policy that can be found on their website.<br/>
 Something important is to clarify that the applications receive information from these services, but do not transmit personal information that may be on the phone. Information such as photos, GPS location, contacts, etc. is not sent to or leave the phone over the Internet through these apps.
 
+Links to the privacy policies of third-party service providers used by the app:
+* [Google Play Services](https://policies.google.com/privacy)
+* [AdMob](https://support.google.com/admob/answer/6128543)
+* [Firebase](https://firebase.google.com/support/privacy)
+
+**Error Reporting (Firebase Crashlytics):**
+In certain apps, we use Firebase Crashlytics to track crashes and improve application stability. When an error occurs, this service automatically collects diagnostic information, such as your device model, operating system version, and the state of the application at the time of the crash. This data is completely anonymous and is used solely to identify bugs and improve the performance of the application. It is not linked or related to your personal data.
+
 ### Use of permissions:
 The applications use the permissions that are minimally necessary to perform their functions. In addition, both the listing in the Play Store and the graphical interface of the applications explain, justify and make it clear to users the need for the permissions they request to work.<br/>
 The information provided by the permissions is only used locally by the application to provide you with its functions, so the application does not send or transmit it outside of your phone.<br/>
 Some examples of permissions:
 - [Internet](https://developer.android.com/reference/android/Manifest.permission#INTERNET): some applications do not have this permission which means that information cannot be sent or received. Applications with this permission use it as described in previous sections of this policy.
-- Location or GPS: for example, in the application [Find my car - save parking location](https://play.google.com/store/apps/details?id=es.soryapps.findmycar), this permission is obvious because the main function of the application is to save where you have parked your car. The application does not force you to grant this permission and only uses it when it is in the foreground (not from background tasks or in the background).
+- Location or GPS: for example, in the application [Find my car - save parking location](https://play.google.com/store/apps/details?id=es.soryapps.findmycar), this permission is obvious because the main function of the application is to save where you have parked your car. The application does not force you to grant this permission and only uses it when it is in the foreground or only from background tasks or in the background if you enable the app to work on this way (AutoPark feature: automatic detection and automatic location saving of the parking lot in background).
 
